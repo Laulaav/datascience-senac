@@ -42,6 +42,7 @@ Existem 652 registros no total.
 | Decisão administrativa de procedência | Data       | Data em que a reclamação é declarada válida por uma autoridade                              |
 | Inclusão no Cadastro de Empregadores | Data        | Data em que o empregador foi incluído no cadastro                                           |
 
+## Colab
 [Link do Colab](https://colab.research.google.com/drive/1izri3nfewj4quABB6H948k9azWAN-Nct?usp=sharing)
 ---
 
