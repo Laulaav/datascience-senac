@@ -39,13 +39,10 @@ Existem 652 registros no total.
 | Estabelecimento                  | Texto (String)  | Localização do estabelecimento fiscalizado                                                  |
 | Trabalhadores envolvidos         | Numérico (Int)  | Quantidade dos trabalhadores sujeitos a condições análogas à escravidão                     |
 | CNAE                             | Texto (String)  | Classificação nacional de atividades econômicas do estabelecimento                          |
-
-##Link do Colab
-[texto do link](https://colab.research.google.com/drive/1izri3nfewj4quABB6H948k9azWAN-Nct?usp=sharing)
-
 | Decisão administrativa de procedência | Data       | Data em que a reclamação é declarada válida por uma autoridade                              |
 | Inclusão no Cadastro de Empregadores | Data        | Data em que o empregador foi incluído no cadastro                                           |
 
+[Link do Colab](https://colab.research.google.com/drive/1izri3nfewj4quABB6H948k9azWAN-Nct?usp=sharing)
 ---
 
 
