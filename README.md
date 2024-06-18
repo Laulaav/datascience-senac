@@ -16,17 +16,17 @@ Existem 652 registros no total.
 
 ### Variáveis:
 
-- **ID**: Numérico(Int) - Identificador
-- **Ano da ação fiscal**: Numérico(Int) - Ano que ocorreu a fiscalização
-- **UF**: Texto(String) - Unidade de federação onde ocorreu a fiscalização
-- **Empregador**: Texto(String) - Nome do empregador envolvido na ação fiscal
-- **CNPJ/CPF**: Texto(String) - Número do CNPJ(empresa) ou CPF(pessoa física) do empregador
-- **Estabelecimento**: Texto(String) - Localização do estabelecimento fiscalizado
-- **Trabalhadores envolvidos**: Numérico(Int) - Quantidade dos trabalhadores sujeitos a condições análogas à escravidão
-- **CNAE**: Texto(String) - Classificação nacional de atividades econômicas do estabelecimento
-- **Decisão administrativa de procedência**: Data - Data em que a reclamação é declarada válida por uma autoridade
-- **Inclusão no cadastro de empregadores**: Data - Data em que o empregador foi incluído no cadastro
-
+- **ID**
+- **Ano da ação fiscal**
+- **UF**
+- **Empregador**
+- **CNPJ/CPF**
+- **Estabelecimento**
+- **Trabalhadores envolvidos**
+- **CNAE**
+- **Decisão administrativa de procedência**
+- **Inclusão no cadastro de empregadores**
+  
 ## Dicionário de Dados
 
 | Variável                         | Tipo            | Descrição                                                                                   |
